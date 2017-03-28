@@ -1,0 +1,5 @@
+﻿  HookDll.cpp
+HookDll.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library D:\iso\utils\Debug\CppHookDll.lib and object D:\iso\utils\Debug\CppHookDll.exp
+  CppHookDll.vcxproj -> D:\iso\utils\Debug\CppHookDll.dll
+  CppHookDll.vcxproj -> D:\iso\utils\Debug\CppHookDll.pdb (Full PDB)

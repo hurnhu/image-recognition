@@ -1,0 +1,5 @@
+﻿  StdAfx.cpp
+  MouseHook.cpp
+MouseHook.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library .\Debug\MouseHook.lib and object .\Debug\MouseHook.exp
+  MouseHook.vcxproj -> C:\Users\mike\Desktop\eclipse\java\gitlab\utils\utils\Debug\MouseHook.dll

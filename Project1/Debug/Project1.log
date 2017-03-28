@@ -1,0 +1,19 @@
+﻿  Utils.cpp
+d:\iso\utils\project1\utils.cpp(69): warning C4244: 'argument': conversion from 'LONG' to 'const float', possible loss of data
+d:\iso\utils\project1\utils.cpp(75): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\iso\utils\project1\utils.cpp(83): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\iso\utils\project1\utils.cpp(95): warning C4244: 'argument': conversion from 'LONG' to 'const float', possible loss of data
+d:\iso\utils\project1\utils.cpp(99): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\iso\utils\project1\utils.cpp(105): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\iso\utils\project1\utils.cpp(171): warning C4018: '<': signed/unsigned mismatch
+d:\iso\utils\project1\utils.cpp(191): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\iso\utils\project1\utils.cpp(220): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+d:\iso\utils\project1\utils.cpp(221): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+d:\iso\utils\project1\utils.cpp(287): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HWND'
+d:\iso\utils\project1\utils.cpp(350): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  ImageProc.cpp
+d:\iso\utils\project1\imageproc.cpp(620): warning C4101: 's2': unreferenced local variable
+  Generating Code...
+  Project1.vcxproj -> D:\iso\utils\Debug\Project1.exe
+  Project1.vcxproj -> D:\iso\utils\Debug\Project1.pdb (Partial PDB)
